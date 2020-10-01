@@ -1,4 +1,4 @@
 # Hello world
 
 
-[screen recorder](recorder-darwin-x64-1.0.0.zip)
+##### [Click here](recorder-darwin-x64-1.0.0.zip) to install a screen recorder 
