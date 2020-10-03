@@ -1,7 +1,7 @@
 # Elect - A voting app made using electron
 
 ### Home page of the voting window -
-![home page](vid-1601729544419.gif)
+![home page](home-page-only.gif)
 
 ## All the above videos were created by the self-made screen recorder 
 
