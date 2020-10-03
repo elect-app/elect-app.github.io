@@ -1,5 +1,7 @@
 # Elect - A voting app made using electron
 
+### Home page of the voting window
+![home page](vid-1601729544419.gif)
 
 ### To install a screen recorder (mac os) - **[Click here !](recorder-darwin-x64-1.0.0.zip)** 
 
