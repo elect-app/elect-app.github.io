@@ -8,7 +8,7 @@ Contents -
 ## Home page of the voting window -
 ![home page](home-page-only.gif)
 
-<ins> **Close and minimize button</ins>** **-**  The buttons in the top right are the ***close*** and ***minimize*** buttons. As this app has a frameless winow (it looks better) the buttons like ***maximize***, ***minimize*** and ***close*** are not present, therefore to **close** or **minimize** the window, we have to press the **cross** and **minus** button respectively.
+<ins> **Close and minimize button**</ins> **-**  The buttons in the top right are the ***close*** and ***minimize*** buttons. As this app has a frameless winow (it looks better) the buttons like ***maximize***, ***minimize*** and ***close*** are not present, therefore to **close** or **minimize** the window, we have to press the **cross** and **minus** button respectively.
 <br><br>
 However, in this window, there is no **maximise** button, this is purely intentional as the window is not meant to be in full screen
 
