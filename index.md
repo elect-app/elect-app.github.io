@@ -1,8 +1,8 @@
 # Elect - A voting app made using electron
 
 Content -
-* [Home page](#Home-page-of-the-voting-window--)
-  * [About the home page](#Home-page-of-the-voting-window--)
+* [Home page](#home-page-of-the-voting-window--)
+  * [About the home page](#home-page-of-the-voting-window--)
   
 
 <br>
