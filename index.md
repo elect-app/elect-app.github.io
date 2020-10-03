@@ -3,6 +3,22 @@
 Content -
 * [Home page](#Home-page-of-the-voting-window--)
   * [About the home page](#Home-page-of-the-voting-window--)
+  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Home page of the voting window -
 ![home page](home-page-only.gif)
