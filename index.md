@@ -17,7 +17,7 @@ Due to being frameless and being made using electron, the app window has the ***
 <ins>**"Vote" button**</ins> **-** When this button is pressed, it takes you to the voting window where the person has to vote. However, it won't directly take you to that window, it will first ask for username and password to proceed. 
 
 
-## All the above videos were created by the self-made screen recorder 
+## All the above videos (later coverted to gifs for this website) were created by the self-made screen recorder 
 
 ### To install the screen recorder (only mac os) - **[Click here !](recorder-darwin-x64-1.0.0.zip)** 
 
