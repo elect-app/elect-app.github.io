@@ -11,6 +11,8 @@ Contents -
 <ins> **Close and minimize button**</ins> **-**  The buttons in the top right are the ***close*** and ***minimize*** buttons. As this app has a frameless winow (it looks better) the buttons like ***maximize***, ***minimize*** and ***close*** are not present, therefore to **close** or **minimize** the window, we have to press the **cross** and **minus** button respectively.
 <br><br>
 However, in this window, there is no **maximise** button, this is purely intentional as the window is not meant to be in full screen
+<br><br>
+Due to being frameless and being made using electron, the app window has the ***exact look*** in **any** operating system! 
 
 ## All the above videos were created by the self-made screen recorder 
 
