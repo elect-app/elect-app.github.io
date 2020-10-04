@@ -14,7 +14,7 @@ Contents -
 However, in this window, there is no **maximise** button, this is purely intentional as the window is not meant to be in full screen
 <br><br>
 
-Due to being frameless and being made using electron, the app window has the ***exact look*** in **any** operating system!
+Due to being frameless and being made using electron, the app window has the ***exactly the same look*** in **any** operating system!
 ![frameless winow picture](files/images/frameless_window.png)<br>*- A screenshot of a frameless window*
 <br><br><br><br>
 
