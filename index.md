@@ -14,8 +14,11 @@ However, in this window, there is no **maximise** button, this is purely intenti
 <br><br>
 Due to being frameless and being made using electron, the app window has the ***exact look*** in **any** operating system! 
 <br><br><br><br>
-<ins>**"Vote" button**</ins> **-** When this button is pressed, it takes you to the voting window where the person has to vote. However, it won't directly take you to that window, it will first ask for username and password to proceed. 
-
+<ins>**"Vote" button**</ins> **-** When this button is clicked, it takes you to the voting window where the person has to vote. However, it won't directly take you to that window, it will first ask for **username** and **password** to proceed. 
+<br><br><br><br>
+<ins>**"Change name/image of candidates" button**</ins> **-** When this button is clicked, it takes you to a window where you can edit the candidates **name** or **image**, but this also requires you to enter the **username** and **password**.
+<br><br><br><br>
+<ins>**"Results" button**</ins> **-** This button when clicked takes you to the window which shows the results, this also requires **username** and **password**.:smiley:
 
 ## All the above videos (later coverted to gifs for this website) were created by the self-made screen recorder 
 
