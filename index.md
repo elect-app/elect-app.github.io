@@ -12,7 +12,8 @@ Contents -
 <br><br>
 However, in this window, there is no **maximise** button, this is purely intentional as the window is not meant to be in full screen
 <br><br>
-Due to being frameless and being made using electron, the app window has the ***exact look*** in **any** operating system! 
+Due to being frameless and being made using electron, the app window has the ***exact look*** in **any** operating system!
+![frameless winow picture](files/images/frameless_window.png)<br>*- A screenshot of a frameless window*
 <br><br><br><br>
 <ins>**"Vote" button**</ins> **-** When this button is clicked, it takes you to the voting window where the person has to vote. However, it won't directly take you to that window, it will first ask for **username** and **password** to proceed. 
 <br><br><br><br>
