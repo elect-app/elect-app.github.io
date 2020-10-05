@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Voting app
 plugins:
   - jemoji
+short_description: Voting app
