@@ -3,3 +3,4 @@ title: Voting app
 plugins:
   - jemoji
 short_description: Voting app
+google_analytics: UA-180332086-1
