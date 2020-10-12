@@ -1,7 +1,5 @@
 # Elect - A voting app made using electron js
 
-# BLA
-
 Contents -
 * [Home page](#home-page-of-the-voting-window--)
   * [About the home page](#home-page-of-the-voting-window--)
