@@ -1,11 +1,13 @@
 # Elect - A voting app made using electron js
 
-[ABOUT](about)
+
 
 Contents -
 * [Home page](#home-page-of-the-voting-window--)
   * [About the home page](#home-page-of-the-voting-window--)
-  
+
+Links related to the app - 
+* [About the app](about)
 
 ## Home page of the voting window -
 ![home page](files/gifs/home-page-only.gif)
