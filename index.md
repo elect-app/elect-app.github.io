@@ -1,6 +1,6 @@
 # Elect - A voting app made using electron js
 
-[About](about.md)
+[ABOUT](about)
 
 Contents -
 * [Home page](#home-page-of-the-voting-window--)
