@@ -7,7 +7,7 @@ Contents -
   * [About the home page](#home-page-of-the-voting-window--)
 
 Links related to the app - 
-* [About the app](about)
+* [About the app](about.md)
 
 ## Home page of the voting window -
 ![home page](files/gifs/home-page-only.gif)
