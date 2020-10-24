@@ -21,6 +21,30 @@
     <title>About</title>
 </head>
 <body>
+  <div id="ask-password-page">
+    <h1 id="loginWindowHeading" style="text-align: center; font-size: 70px; background-color: #f27633b1; padding: 30px;">Authorize</h1>
+    
+    <h3 id="loginWindowInfo" style="text-align:center; display:block; padding: 50px; font-size: 60px;">Please enter the password to proceed as the content is private.</h3>
+
+    
+
+    <div id="ask-password-container" style="padding: 50px;">
+      
+      <div class="field">
+        <label class="label is-large" style="text-align:center; display:block;">Password</label>
+        <div class="control has-icons-left">
+          <input id="user-password" class="input is-success is-large" type="password" placeholder="password">
+          <span class="icon is-small is-left is-large">
+            <i class="fas fa-lock"></i>
+          </span>
+        </div>
+      </div>
+      <div style="text-align: center;">
+      <button class="button is-large is-primary is-fullwidth" id="ask-password-proceed">Continue</button>
+      </div>
+    </div>
+  </div>
+  <div id="secret-info">
     <h1 id="aboutHeading"><i class='fas fa-info-circle' aria-hidden="true" id="about-heading-icon"></i><i id="about-heading-text">About the app</i></h1>
     <br><br><br><br><br><br><br><br><br><br><br><br><br>
     
@@ -28,5 +52,6 @@
         <p style="right: 5%;"><a href="https://elect-app.github.io">Go to home page</a></p>
         <p style="font-size: large; font-weight: bold;">Elect is an app made using <a href="https://www.electronjs.org" target="_blank"><i>Electron</i></a>.</p>
     </div>
+  </div>
 </body>
 </html>
