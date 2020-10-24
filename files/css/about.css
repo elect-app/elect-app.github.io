@@ -1,4 +1,3 @@
-
 #aboutHeading {
     /*background-color: rgb(51, 154, 214);*/
     position: fixed;
@@ -24,3 +23,11 @@
     font-size: large; 
     font-weight: bold;
 }
+#secret-info {
+    display: none;
+}
+
+#ask-password-page {
+   position: relative;
+}
+
